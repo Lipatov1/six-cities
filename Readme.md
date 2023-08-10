@@ -6,6 +6,8 @@
 - React
 - TypeScript
 - Redux
+- Axios
+- Redux Thunk
 - Jest
 - React Router
 
